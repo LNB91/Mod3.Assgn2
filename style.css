@@ -1,0 +1,64 @@
+body {
+  font-family: Arial, sans-serif;
+  background: url('https://images.pexels.com/photos/125510/pexels-photo-125510.jpeg?auto=compress&cs=tinysrgb&w=1200') no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
+  text-align: center;
+  margin: 20px 0;
+}
+
+h1 {
+  font-size: 3rem;
+  text-shadow: 2px 2px 4px #000;
+}
+
+.search-section {
+  margin: 20px;
+  text-align: center;
+}
+
+input {
+  padding: 10px;
+  font-size: 1.2rem;
+  width: 300px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  margin: 0 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #4682B4;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1E90FF;
+}
+
+.weather-section {
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+  padding: 20px;
+  width: 80%;
+  max-width: 600px;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+  text-shadow: 1px 1px 3px #000;
+}
