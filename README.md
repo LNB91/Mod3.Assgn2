@@ -30,7 +30,7 @@ A responsive, dynamic weather app that allows users to retrieve real-time weathe
 
 ## 📸 Screenshot
 
-[Weather App Screenshot](weather-application.png)
+[Weather App Screenshot](Weather-Application.png)
 
 
 
